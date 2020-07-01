@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download cv here](http://ferdaus.github.io/files/kawsar_CV_2020.pdf)
+[Download cv here](http://ferdaus.github.io/files/Kawsar_CV_2020.pdf)
 {% include base_path %}
 
 Education

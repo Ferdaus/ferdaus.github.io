@@ -17,17 +17,29 @@ Education
 
 Work experience
 ======
-* Summer 2017-Present: Assistant Professor at  the Department of Computing
+* June 2017- Present: Assistant Professor at  the Department of Computing
   * East Tennessee State University
   * Duties included: Teaching Software Engineering I and II, Machine Learning  and Graduate Capstone classes
   
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*February 2016 - May 2017:  Research Scientist II at Medical College of Wisconsin
+    * Duties included: Analyzed data from fMRI images, MEG scan using various tools.
+    * Supervisor: Dr Jeff Binder
 
-* Fall 2015: Research Assistant
+* Fall 2009 -  August 2015: Graduate Assistant at Marquette University
+  * Duties included: Completed PhD in Computational Sciences 
+  * Supervisor: [Dr. Sheikh Iqbal Ahamed](http://www.mscs.mu.edu/~iq/)
+
+  * Summer 2013 and October 2015 - January 2016: Software Engineering Intern for Cisco Systems, Inc.
+      * Duties included:  Feature development for Android Client of IPICS project
+  * Supervisor: Zeeshan Khan
+
+    * Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+    * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub

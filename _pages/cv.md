@@ -21,8 +21,7 @@ Work experience
   * East Tennessee State University
   * Duties included: Teaching Software Engineering I and II, Machine Learning  and Graduate Capstone classes
   
-
-*February 2016 - May 2017:  Research Scientist II at Medical College of Wisconsin
+* February 2016 - May 2017:  Research Scientist II at Medical College of Wisconsin
     * Duties included: Analyzed data from fMRI images, MEG scan using various tools.
     * Supervisor: Dr Jeff Binder
 
@@ -32,7 +31,7 @@ Work experience
 
   * Summer 2013 and October 2015 - January 2016: Software Engineering Intern for Cisco Systems, Inc.
       * Duties included:  Feature development for Android Client of IPICS project
-  * Supervisor: Zeeshan Khan
+     * Supervisor: Zeeshan Khan
 
     * Fall 2015: Research Assistant
   * Github University

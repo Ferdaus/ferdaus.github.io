@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Download cv here](http://academicpages.github.io/files/kawsar_CV_2020.pdf)
 {% include base_path %}
 
 Education

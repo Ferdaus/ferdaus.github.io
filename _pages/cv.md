@@ -29,28 +29,23 @@ Work experience
   * Duties included: Completed PhD in Computational Sciences 
   * Supervisor: [Dr. Sheikh Iqbal Ahamed](http://www.mscs.mu.edu/~iq/)
 
-  * Summer 2013 and October 2015 - January 2016: Software Engineering Intern for Cisco Systems, Inc.
+ * Summer 2013 and October 2015 - January 2016: Software Engineering Intern for Cisco Systems, Inc.
       * Duties included:  Feature development for Android Client of IPICS project
      * Supervisor: Zeeshan Khan
 
-    * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-    * Fall 2015: Research Assistant
+* Fall 2015: Software Engineer at Uniqa Software & Systems Ltd. Dhaka, Bangladesh
+  
+* Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical Skills
+    * Programming Languages:  C/C++, Java, C#, SQL, Assembly language, Prolog, Shell script, Android Programming, J2ME, OpenMP, Python, ASP.NET
+    * Tools and Software:  MySQL, Microsoft Visio,  NetBeans, Microsoft Visual Studio, eclipse, MATLAB,  Weka, Microsoft .NET,  FreeSurfer, FieldTrip, Connectome Workbench, Afni , Jupyter Notebook, Jira, Git, Octave, 
+  
 
 Publications
 ======

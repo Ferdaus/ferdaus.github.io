@@ -11,12 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computational Sciences, Marquette University, 2015 
+* M.Sc. in Computational Sciences, Marquette University, 2012
+* B.Sc. in Computer Science and Engineering ,  Bangladesh University of Engineering and Technology, Dhaka., 2006
 
 Work experience
 ======
+* Summer 2017-Present: Assistant Professor at  the Department of Computing
+  * East Tennessee State University
+  * Duties included: Teaching Software Engineering I and II, Machine Learning  and Graduate Capstone classes
+  
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues

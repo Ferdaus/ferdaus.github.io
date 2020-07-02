@@ -18,14 +18,14 @@ Education
 Work experience
 ======
 * June 2017- Present: Assistant Professor at  the Department of Computing
-  * East Tennessee State University
+  *[ East Tennessee State University](https://www.etsu.edu/ehome/)
   * Duties included: Teaching Software Engineering I and II, Machine Learning  and Graduate Capstone classes
   
-* February 2016 - May 2017:  Research Scientist II at Medical College of Wisconsin
+* February 2016 - May 2017:  Research Scientist II at [Medical College of Wisconsin](https://www.mcw.edu/)
     * Duties included: Analyzed data from fMRI images, MEG scan using various tools.
     * Supervisor: Dr Jeff Binder
 
-* Fall 2009 -  August 2015: Graduate Assistant at Marquette University
+* Fall 2009 -  August 2015: Graduate Assistant at [Marquette University](https://www.marquette.edu/)
   * Duties included: Completed PhD in Computational Sciences 
   * Supervisor: [Dr. Sheikh Iqbal Ahamed](http://www.mscs.mu.edu/~iq/)
 

@@ -3,12 +3,12 @@ title: "DeepDSSR: Deep Learning Structure for Human Donor Splice Sites Recogniti
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2019-07-04
+venue: [Studies in Health Technology and Informatics](http://ebooks.iospress.nl/bookseries/studies-in-health-technology-and-informatics)
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/31349311/'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Alam, T., Islam, M. T., Househ, M., Bouzerdoum, A., & Kawsar, F. A. (2019). &quot;DeepDSSR: Deep Learning Structure for Human Donor Splice Sites Recognition.&quot; <i>Studies in health technology and informatics, 262, 236–239.</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 

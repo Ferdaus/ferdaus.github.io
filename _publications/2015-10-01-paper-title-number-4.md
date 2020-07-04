@@ -1,8 +1,8 @@
 ---
 title: "Activity Detection Using Time-Delay Embedding in Multi-modal Sensor System"
 collection: publications
-excerpt: ''
 permalink: /publication/2015-10-01-paper-title-number-4
+excerpt: ''
 venue: 'International Conference on Smart Homes and Health Telematics'
 date: 2016-05-21
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-39601-9_44'

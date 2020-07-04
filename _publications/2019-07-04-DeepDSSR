@@ -1,12 +1,13 @@
 ---
 title: "DeepDSSR: Deep Learning Structure for Human Donor Splice Sites Recognition"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-
-date: 2019-07-04
-venue: 'somewhere'
+permalink: /publication/2019-07-04-DeepDSSR
+excerpt: ''
+venue: 'Studies in health technology and informatics'
+date: 2016-05-21
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/31349311/'
-citation: 'something'
----
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+---
+**Abstract:** Human genes often, through alternative splicing of pre-messenger RNAs, produce multiple mRNAs and protein isoforms that may have similar or completely different functions. Identification of splice sites is, therefore, crucial to understand the gene structure and variants of mRNA and protein isoforms produced by the primary RNA transcripts. Although many computational methods have been developed to detect the splice sites in humans, this is still substantially a challenging problem and further improvement of the computational model is still foreseeable. Accordingly, we developed DeepDSSR (deep donor splice site recognizer), a novel deep learning based architecture, for predicting human donor splice sites. The proposed method, built upon publicly available and highly imbalanced benchmark dataset, is comparable with the leading deep learning based methods for detecting human donor splice sites. Performance evaluation metrics show that DeepDSSR outperformed the existing deep learning based methods. Future work will improve the predictive capabilities of our model, and we will build a model for the prediction of acceptor splice sites.
+
+[Download paper here](http://ferdaus.github.io/files/icost_2016_Paper83_Camera_Ready_Version.pdf)

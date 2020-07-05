@@ -1,9 +1,9 @@
 ---
 title: "Findings of mobile based palliative care system: towards formulating a generic framework for measuring QoL"
 collection: publications
-permalink: /publication/2015-07-05-A-Novel-Activity-Detection-System
+permalink: /publication/2014-05-01-Findings-mobile-based-palliative-care-system
 excerpt: ''
-venue: 'Computer Software and Applications Conference (COMPSAC)'
+venue: 'PervasiveHealth '14'
 date: 2014-05-01
 paperurl: 'https://dl.acm.org/doi/10.4108/icst.pervasivehealth.2014.254960'
 

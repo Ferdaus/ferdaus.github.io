@@ -1,7 +1,7 @@
 ---
 title: "Barriers for Breast Cancer (BC) Patients in Rural Bangladesh: Design and Deployment of a Mobile based Solution"
 collection: publications
-permalink: /publication/2014-05-01-Findings-mobile-based-palliative-care-system
+permalink: /publication/2014-08-09-Barriers-Breast-Cancer-Patients-in-Rural-Bangladesh
 excerpt: ''
 venue: 'AMCIS 2014 Savannah, Georgia'
 date: 2014-08-09

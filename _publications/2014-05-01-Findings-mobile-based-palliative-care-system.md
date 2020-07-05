@@ -3,7 +3,7 @@ title: "Findings of mobile based palliative care system: towards formulating a g
 collection: publications
 permalink: /publication/2014-05-01-Findings-mobile-based-palliative-care-system
 excerpt: ''
-venue: 'PervasiveHealth '14'
+venue: 'PervasiveHealth 2014: Proceedings of the 8th International Conference on Pervasive Computing Technologies for Healthcare'
 date: 2014-05-01
 paperurl: 'https://dl.acm.org/doi/10.4108/icst.pervasivehealth.2014.254960'
 

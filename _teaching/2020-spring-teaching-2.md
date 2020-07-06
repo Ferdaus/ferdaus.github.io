@@ -1,7 +1,7 @@
 ---
 title: "Spring 2020"
 collection: teaching
-permalink: /teaching/2015-spring-teaching-2
+permalink: /teaching/2020-spring-teaching-2
 venue: "East Tennessee State University, Department of Computing"
 date: 2020-05-22
 location: "Johnson City, TN, USA"

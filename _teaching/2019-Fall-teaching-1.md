@@ -8,7 +8,7 @@ date: 2019-12-12
 location: "Johnson City, TN, USA"
 ---
 
-I taught Software Engineering I and Machine Learning in Fall 2019
+I taught Software Engineering I and Machine Learning in **Fall 2019**.
 
 Software Engineering  I (CSCI 4250)
 ======

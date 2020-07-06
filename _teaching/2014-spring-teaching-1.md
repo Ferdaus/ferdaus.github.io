@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Fall 2019"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2019-Fall-teaching-1
+venue: "East Tennessee State University, Department of Computing"
+date: 2019-12-12
+location: "Johnson City, TN, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I taught Software Engineering I and Machine Learning in Fall 2019
 
-Heading 1
+Software Engineering  I (CSCI 4250)
 ======
 
-Heading 2
+Machine Learning (CSCI 4957)
 ======
 
-Heading 3
-======

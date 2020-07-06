@@ -1,14 +1,14 @@
 ---
 title: "Spring 2020"
 collection: teaching
-type: ""
+
 permalink: /teaching/2015-spring-teaching-2
-venue: "University 1, Department"
+venue: "East Tennessee State University, Department of Computing"
 date: 2020-05-22
-location: "City, Country"
+location: "Johnson City, TN, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I taught the following two courses in **Spring 2020**.
 
 Machine Learning (CSCI 4957/5957)
 ======

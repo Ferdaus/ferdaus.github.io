@@ -5,7 +5,7 @@ permalink: /publication/2012-01-01-Mobile-Based-health-Care-Solution
 excerpt: ''
 venue: 'Proceedings of M4D, New Delhi'
 date: 2012-06-01
-paperurl: 'https://www.researchgate.net/profile/Tesfa_Tegegne/publication/241880474_Is_mHealth_Viable_to_Ethiopia_an_Empirical_Study/links/00b4953b56b3022606000000.pdf#page=40'
+paperurl: 'http://www.diva-portal.org/smash/get/diva2:472880/fulltext01'
 
 ---
 

@@ -3,7 +3,7 @@ title: "Identifying Phases of Gait and Development of Walking Model from Pressur
 collection: publications
 permalink: /publication/2013-06-21-Identifying-Phases-of-Gait
 excerpt: ''
-venue: 'International Conference on Smart Homes and Health Telematics, ICOST 2013'
+venue: 'International Conference on Smart Homes and Health Telematics (ICOST )'
 date: 2013-06-21
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-642-39470-6_35'
 

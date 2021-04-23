@@ -1,7 +1,6 @@
 ---
 title: "Spring 2018"
 collection: teaching
-type: "Undergraduate and graduate course"
 permalink: /teaching/2018-spring-teaching-3
 venue: "East Tennessee State University, Department of Computing"
 date: 2020-05-22

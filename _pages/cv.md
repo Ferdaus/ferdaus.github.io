@@ -18,32 +18,30 @@ Education
 Work experience
 ======
 * June 2017- Present: Assistant Professor at  the Department of Computing at [East Tennessee State University](https://www.etsu.edu/ehome/)
-  * Duties included: Teaching Software Engineering I and II, Machine Learning  and Graduate Capstone classes
+  * Teaching various courses of Computer Science including Software Engineering I and II, Machine Learning  and Graduate Capstone courses
+  * Worked as a member of CBAT Scholarship Committee, Graduate Committee, Faculty-search Committee, Systems Committee and awards and scholarship committee
+  * Conduct research on smart and connected health informatics 
   
 * February 2016 - May 2017:  Research Scientist II at [Medical College of Wisconsin](https://www.mcw.edu/)
-    * Duties included: Analyzed data from fMRI images, MEG scan using various tools.
+    * Duties included: Analyzing data from fMRI images, MEG scan using various tools.
     * Supervisor: Dr Jeff Binder
 
 * Fall 2009 -  August 2015: Graduate Assistant at [Marquette University](https://www.marquette.edu/)
-  * Duties included: Completed PhD in Computational Sciences 
+  * Duties included: Research in Computational Sciences 
   * Supervisor: [Dr. Sheikh Iqbal Ahamed](http://www.mscs.mu.edu/~iq/)
 
  * Summer 2013 and October 2015 - January 2016: Software Engineering Intern for Cisco Systems, Inc.
       * Duties included:  Feature development for Android Client of IPICS project
-     * Supervisor: Zeeshan Khan
+      * Supervisor: Zeeshan Khan
 
 * Fall 2015: Software Engineer at Uniqa Software & Systems Ltd. Dhaka, Bangladesh
   
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
 * Technical Skills
-    * Programming Languages:  C/C++, Java, C#, SQL, Assembly language, Prolog, Shell script, Android Programming, J2ME, OpenMP, Python, ASP.NET
-    * Tools and Software:  MySQL, Microsoft Visio,  NetBeans, Microsoft Visual Studio, eclipse, MATLAB,  Weka, Microsoft .NET,  FreeSurfer, FieldTrip, Connectome Workbench, Afni , Jupyter Notebook, Jira, Git, Octave, 
+    * Programming Languages:  Python, C/C++, Java, C#, SQL, Assembly language, Prolog, Shell script, Android Programming, J2ME, OpenMP, ASP.NET
+    * Tools and Software:  Jira, Git, MySQL, Jupyter Notebook, Microsoft Visio,  NetBeans, Microsoft Visual Studio, eclipse, MATLAB,  Weka, Microsoft .NET,  FreeSurfer, FieldTrip, Connectome Workbench, Afni ,  Octave 
   
 
 Publications

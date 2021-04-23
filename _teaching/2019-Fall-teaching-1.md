@@ -12,7 +12,7 @@ I taught Software Engineering I and Machine Learning in **Fall 2019**.
 
 Software Engineering  I (CSCI 4250)
 ======
-An introduction to software systems development as an engineering discipline. All phases of the software development  life  cycle  are  examined,  with  particular  emphasis  on  requirements  analysis,  requirements specification, and preliminary design. Participation on realistic team projects, use of automated tools, written and oral communication skills, exposure to legal, professional, and ethical issues is stressed.
+An introduction to software systems development as an engineering discipline. All phases of the software development life-cycle are examined, with particular emphasis on requirements  analysis,  requirements specification, and preliminary design. Participation on realistic team projects, use of automated tools, written and oral communication skills, exposure to legal, professional, and ethical issues is stressed.
 
 Machine Learning (CSCI 4957)
 ======

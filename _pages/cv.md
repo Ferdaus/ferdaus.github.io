@@ -24,11 +24,11 @@ Work experience
   
 * February 2016 - May 2017:  Research Scientist II at [Medical College of Wisconsin](https://www.mcw.edu/)
     * Duties included: Analyzing data from fMRI images, MEG scan using various tools.
-    * Supervisor: Dr Jeff Binder
+    * _Supervisor_: Dr Jeff Binder
 
 * Fall 2009 -  August 2015: Graduate Assistant at [Marquette University](https://www.marquette.edu/)
   *  Research in Computational Sciences 
-  *  Supervisor: [Dr. Sheikh Iqbal Ahamed](http://www.mscs.mu.edu/~iq/)
+  *  _Supervisor_: [Dr. Sheikh Iqbal Ahamed](http://www.mscs.mu.edu/~iq/)
 
  * Summer 2013 and October 2015 - January 2016: Software Engineering Intern for Cisco Systems, Inc.
       * Duties included:  Feature development for Android Client of IPICS project

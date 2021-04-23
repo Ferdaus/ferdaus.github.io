@@ -27,12 +27,12 @@ Work experience
     * Supervisor: Dr Jeff Binder
 
 * Fall 2009 -  August 2015: Graduate Assistant at [Marquette University](https://www.marquette.edu/)
-  * Duties included: Research in Computational Sciences 
-  * Supervisor: [Dr. Sheikh Iqbal Ahamed](http://www.mscs.mu.edu/~iq/)
+  *  Research in Computational Sciences 
+  *  Supervisor: [Dr. Sheikh Iqbal Ahamed](http://www.mscs.mu.edu/~iq/)
 
  * Summer 2013 and October 2015 - January 2016: Software Engineering Intern for Cisco Systems, Inc.
       * Duties included:  Feature development for Android Client of IPICS project
-      * Supervisor: Zeeshan Khan
+      * _Supervisor_: Zeeshan Khan
 
 * Fall 2015: Software Engineer at Uniqa Software & Systems Ltd. Dhaka, Bangladesh
   

@@ -1,19 +1,20 @@
 ---
-title: "Spring 2020"
+title: "Spring 2018"
 collection: teaching
 type: "Undergraduate and graduate course"
-permalink: /teaching/2020-spring-teaching-2
+permalink: /teaching/2018-spring-teaching-3
 venue: "East Tennessee State University, Department of Computing"
 date: 2020-05-22
 location: "Johnson City, TN, USA"
 ---
 
-I taught the following two courses in **Spring 2020**.
+I taught the following two courses in **Spring 2018**.
 
-Machine Learning (CSCI 4957/5957)
+Software Engineering  I (CSCI 3250)
 ======
- This course provides a broad introduction to modern machine learning topics.  This course introduces several fundamental concepts of machine learning. The objective of this is to familiarize the audience about core topics of machine learning including i) Supervised Learning (Linear Regression, Logistic Regression, Artificial Neural Network, etc.) ii) Unsupervised Learning (clustering, recommender systems) and iii) Best practices of machine learning
+An introduction to software systems development as an engineering discipline. All phases of the software development life-cycle are examined, with particular emphasis on requirements  analysis,  requirements specification, and preliminary design. Participation on realistic team projects, use of automated tools, written and oral communication skills, exposure to legal, professional, and ethical issues is stressed.
 
-Introduction to Computer Science (CSCI 1250)
+Software Engineering  I (CSCI 3350)
 ======
-An introduction to object-oriented programming concepts: good programming style, algorithms, documentation, and elementary data structures. We will use Java as a vehiclefor introducing these programming concepts. Using computers in lab to design, code, debug, and execute programs is an integral part of the course
+Software development as an engineering discipline with emphasis on detailed design, implementation, testing, maintenance, project management, verification and validation, configuration management, and software quality assurance. Communications (written and oral), legal, professional, ethical issues, participation on team projects, and use of automated tools are integral.
+

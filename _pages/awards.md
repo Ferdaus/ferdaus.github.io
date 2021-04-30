@@ -3,8 +3,7 @@ layout: archive
 title: "Awards"
 permalink: /awards/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 *	Travel grant awarded from the Department of Computing to attend ACM/IEEE IoTDI 2018 from April 17-20, 2018 in Orlando, Florida
 *	Travel grant awarded from the Department of Computing to attend IEEE COMPSAC 2019 on July 15, 2019 in Marquette University at Milwaukee 

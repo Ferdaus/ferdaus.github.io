@@ -4,10 +4,12 @@ title: "Recent News"
 author_profile: true
 
 ---
-Research Professional Development
+Professional Development
 ======
 *	Attended Professional Grant Development Workshop in University of Tennessee Chattanooga March 19-20, 2018
 *	Participated in NSF CISE CAREER Workshop 2019 in NSF Headquarter in Alexandria, VA on April 8, 2019. 
+*	Attended workshop on “Feedback Early and Often” hosted by Center for Teaching Excellence at ETSU on October 22, 2019.
+
 
 Collaborated Research
 ======
@@ -22,6 +24,7 @@ IRB Approval
 ======
 
 	I obtained IRB approval for the following study from the IRB of ETSU: 
+	
 _Testing the feasibility of development of activity detection system and other modules of Diabetic Management System_
 
 

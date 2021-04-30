@@ -22,9 +22,7 @@ Conference Attendance
 
 IRB Approval
 ======
-
-	I obtained IRB approval for the following study from the IRB of ETSU: 
-	
+* I obtained IRB approval for the following study from the IRB of ETSU: 
 _Testing the feasibility of development of activity detection system and other modules of Diabetic Management System_
 
 

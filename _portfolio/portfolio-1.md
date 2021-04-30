@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Diabetic Care"
-excerpt: "I have been working to build a system for both patients and providers to create an extra channel between them. T 1<br/><img src='/images/diabetic_care.png'>"
+excerpt: "I have been working to build a system for both patients and providers to create an extra channel between them. 1<br/><img src='/images/diabetic_care.png'>"
 collection: portfolio
 ---
 

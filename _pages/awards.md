@@ -22,7 +22,7 @@ author_profile: true
 
 Grants Awarded
 ======
-Grants Awarded
+
 *	Calculating Road User Cost for Specific Sections of Highway to Use in Alternative Contracting Projects, Tennessee Department of Transportation under 2018 Second Call for Research Proposals. $89,909.95. Joseph Shrestha (PI), Mohammad Moin Uddin (Co-Investigator), Ferdaus Kawsar (Co-Investigator)
 *	A Mobile-based Remote Diabetes Management System for Providing Precision Care to Patients, Research Development Committee Major Grant, $10,000, FY 2018-2019, Ferdaus Kawsar (PI) & Saba Aziz (Co-Investigator)
 *	Optimizing device-to-device interactions on a decentralized online social network, Research Development Committee Major Grant, $10,000, FY 2018-2019, Esra Erdin (PI) & Ferdaus Kawsar (Co-Investigator)

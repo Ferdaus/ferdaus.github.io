@@ -25,7 +25,7 @@ author_profile: true
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
 * General Co-Chair WISH 2020: The 2nd IEEE International Workshop on Integrated Smart Healthcare to be held in Madrid, Spain from July 13-17, 2020.
 * General Co-Chair WISH 2019: The 1ST IEEE International Workshop on Integrated Smart Healthcare held in Milwaukee, Wisconsin, USA July 15-19, 2019.
 * Member, Program Committee, Pervasive Context-Aware Smart Cities and Intelligent Transportation Systems (PerAwareCity), March 2020. 

@@ -1,0 +1,14 @@
+---
+title: "User privacy protection in pervasive social networking applications using PCO"
+collection: publications
+permalink: /publication/2012-07-09-User-privacy-protection-in-pervasive-social
+excerpt: ''
+venue: ' International Journal of Social Computing and Cyber-Physical Systems'
+date: 2012-07-09
+paperurl: 'https://www.inderscienceonline.com/doi/pdf/10.1504/IJSCCPS.2012.047699'
+
+---
+
+**Abstract:** Privacy is the most often-cited criticism of context awareness in pervasive environment, and may be the utmost barrier to its enduring success. However, privacy implications associated with pervasive online community-based applications depend on the level of identifiability of the information provided, its possible recipients, and its possible uses. Unfortunately, conventional privacy preservation techniques are not suitable for these types of application. This paper describes our current work in developing a novel privacy sensitive architecture for context obfuscation (PCO) for privacy preservation in pervasive online community-based applications. More specifically, PCO preserves users’ privacy by generalising request parameters as well as the context data provided to the application. To support multiple levels of granularity for the released context data, the obfuscation procedure uses an ontological description that states the granularity of object type instances. We have developed and evaluated a contextual instant messaging application (PCO application) in Android platform that incorporates level-based privacy of the user’s contextual information. We also evaluate our prototype application through user evaluation survey. The PCO architecture can be extended to be used in diverse online community-based applications.
+
+<!--- [Download paper here](http://ferdaus.github.io/files/health07-kawsar.pdf)  -->

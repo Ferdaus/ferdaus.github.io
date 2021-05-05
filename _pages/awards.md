@@ -27,22 +27,3 @@ Grants Awarded
 *	A Mobile-based Remote Diabetes Management System for Providing Precision Care to Patients, Research Development Committee Major Grant, $10,000, FY 2018-2019, Ferdaus Kawsar (PI) & Saba Aziz (Co-Investigator)
 *	Optimizing device-to-device interactions on a decentralized online social network, Research Development Committee Major Grant, $10,000, FY 2018-2019, Esra Erdin (PI) & Ferdaus Kawsar (Co-Investigator)
 *	A Mobile-based Remote Diabetes Management System for Providing Personalized Care to Patients, Research Development Committee Small Grant, $1500, FY 2017-2018, Ferdaus Kawsar (PI)
-
-  
-Service and leadership
-======
-
-* General Co-Chair WISH 2020: The 2nd IEEE International Workshop on Integrated Smart Healthcare to be held in Madrid, Spain from July 13-17, 2020.
-* General Co-Chair WISH 2019: The 1ST IEEE International Workshop on Integrated Smart Healthcare held in Milwaukee, Wisconsin, USA July 15-19, 2019.
-* Member, Program Committee, Pervasive Context-Aware Smart Cities and Intelligent Transportation Systems (PerAwareCity), March 2020. 
-* Member, Graduate Committee, Department of Computing, East Tennessee State University (2018-2019)
-* Member, Graduate Committee, Department of Computing, East Tennessee State University (2019-2020)
-* Member, Faculty Search Committee, Department of Computing, East Tennessee State University (2017-2018, 2018-2019)
-* Member, Computing Awards and Scholarship Committee, Department of Computing, East Tennessee State University (2017-2018)
-* Member, Awards and Scholarship Committee, College of Business and Technology, East Tennessee State University (2017-2018)
-* Member, Computation and Research in Data Science, East Tennessee State University (2018-2019)
-* Member, Program Committee, Mobile Computing and Applications Track, SAC 2017
-* Member, Program Committee, Mobile, Wearable and Ubiquitous Computing (MOWU) Symposium, IEEE COMPSAC 2017
-* Reviewer, ACM Symposium on Applied Computing (SAC) 2017
-* Reviewer, for research articles for International Conference on Networking, Systems and Security (NSysS 2018) held in Dhaka, Bangladesh
-

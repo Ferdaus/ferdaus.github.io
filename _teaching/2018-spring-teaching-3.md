@@ -8,7 +8,7 @@ date: 2020-05-22
 location: "Johnson City, TN, USA"
 ---
 
-I taught Software Engineering  Iand Software Engineering  II in **Spring 2018**.
+I taught Software Engineering  I and Software Engineering  II in **Spring 2018**.
 
 Software Engineering  I (CSCI 3250)
 ======

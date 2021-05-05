@@ -2,6 +2,7 @@
 title: "Spring 2018"
 collection: teaching
 permalink: /teaching/2018-spring-teaching-3
+type: "Undergraduate course"
 venue: "East Tennessee State University, Department of Computing"
 date: 2020-05-22
 location: "Johnson City, TN, USA"

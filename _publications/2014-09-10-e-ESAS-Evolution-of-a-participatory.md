@@ -3,7 +3,7 @@ title: "e-ESAS: Evolution of a participatory design-based solution for breast ca
 collection: publications
 permalink: /publication/2014-09-10-e-ESAS-Evolution-of-a-participatory
 excerpt: ''
-venue: 'Personal and Ubiquitous Computing '
+venue: 'Personal and Ubiquitous Computing'
 date: 2014-09-10
 paperurl: 'https://dl.acm.org/doi/10.1007/s00779-014-0828-6'
 
